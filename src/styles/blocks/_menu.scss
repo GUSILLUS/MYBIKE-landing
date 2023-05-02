@@ -1,5 +1,6 @@
 .menu {
   background-color: $c-white;
+  z-index: 5;
 
   &__content {
     display: flex;
